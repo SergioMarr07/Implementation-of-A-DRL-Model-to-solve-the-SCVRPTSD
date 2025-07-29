@@ -22,13 +22,13 @@ The effectiveness of the proposed method is evaluated through extensive experime
 
 ### Total Travel Time and Out-of-Schedule Deliveries
 
-#### Case 1: Instances with $n=50$ customers
+#### Inference results for instances with $n=50$ customers
 ![Total Travel Time and Out-of-Schedule Deliveries](results/comparison_n50.png)
 
-#### Case 2: Instances with $n=30$ customers
+#### Inference results for instances with $n=30$ customers
 ![Total Travel Time and Out-of-Schedule Deliveries](results/comparison_n30.png)
 
-#### Case 3: Instances with $n=20$ customers
+#### Inference results for instances with $n=20$ customers
 ![Total Travel Time and Out-of-Schedule Deliveries](results/comparison_n20.png)
 
 ### Training Progress
