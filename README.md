@@ -23,21 +23,21 @@ The effectiveness of the proposed method is evaluated through extensive experime
 ### Total Travel Time and Out-of-Schedule Deliveries
 
 #### Case 1: Instances with $n=50$ customers
-![Total Travel Time and Out-of-Schedule Deliveries - Case 1](results/case1_performance.png)
+![Total Travel Time and Out-of-Schedule Deliveries](results/comparison_n50.png)
 
 #### Case 2: Instances with $n=30$ customers
-![Total Travel Time and Out-of-Schedule Deliveries - Case 2](results/case2_performance.png)
+![Total Travel Time and Out-of-Schedule Deliveries](results/comparison_n30.png)
 
 #### Case 3: Instances with $n=20$ customers
-![Total Travel Time and Out-of-Schedule Deliveries - Case 3](results/case3_performance.png)
+![Total Travel Time and Out-of-Schedule Deliveries](results/comparison_n20.png)
 
 ### Training Progress
 
 The training process shows convergence in loss and reward over epochs.
 
-![Training Loss and Reward](results/training_progress.png)
+![Training Loss and Reward](results/learning_curves.png)
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 
