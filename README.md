@@ -23,19 +23,25 @@ The effectiveness of the proposed method is evaluated through extensive experime
 ### Total Travel Time and Out-of-Schedule Deliveries
 
 #### Inference results for instances with $n=50$ customers
-![Total Travel Time and Out-of-Schedule Deliveries](results/comparison_n50.png)
+![Total Travel Time and Out-of-Schedule Deliveries](Inference/results/comparison_n50.png)
 
 #### Inference results for instances with $n=30$ customers
-![Total Travel Time and Out-of-Schedule Deliveries](results/comparison_n30.png)
+![Total Travel Time and Out-of-Schedule Deliveries](Inference/results/comparison_n30.png)
 
 #### Inference results for instances with $n=20$ customers
-![Total Travel Time and Out-of-Schedule Deliveries](results/comparison_n20.png)
+![Total Travel Time and Out-of-Schedule Deliveries](Inference/results/comparison_n20.png)
 
 ### Training Progress
 
 The training process shows convergence in loss and reward over epochs.
 
-![Training Loss and Reward](results/learning_curves.png)
+![Training Loss and Reward](Inference/results/learning_curves.png)
+
+### Solution example
+
+The following picture is a solution plot for $n=20$ customers computed through the Neural Network Model trained over 50 epochs. The instance parameters were generated using a fixed seed of 0.
+
+![Solution example for 20 customers](Inference/results/graph_n20_seed0.png)
 
 ## How to Run
 
@@ -50,4 +56,4 @@ The training process shows convergence in loss and reward over epochs.
 ### Install Dependencies
 
 ```bash
-pip install torch numpy matplotlib ortools
+pip install torch numpy matplotlib
