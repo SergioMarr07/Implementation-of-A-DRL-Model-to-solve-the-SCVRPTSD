@@ -1,6 +1,6 @@
-# Implementation of a DRL Model to Solve the SCVRPTSD
+# Implementation of a DRL Model to Solve the SCVRPSTD
 
-This repository contains the implementation of a Deep Reinforcement Learning (DRL)-based approach to solve the **Stochastic Capacitated Vehicle Routing Problem with Time Services and Deadlines (SCVRPTSD)**. This work is part of a paper under revision by my teamwork, which extends the Policy Optimization with Multiple Optima (POMO) algorithm to address the stochastic and time-sensitive nature of the problem.
+This repository contains the implementation of a Deep Reinforcement Learning (DRL)-based approach to solve the **Stochastic Capacitated Vehicle Routing Problem with Service Times and Deadlines (SCVRPSTD)**. This work is part of a paper under revision by my teamwork, which extends the Policy Optimization with Multiple Optima (POMO) algorithm to address the stochastic and time-sensitive nature of the problem.
 
 ## Problem Overview
 
